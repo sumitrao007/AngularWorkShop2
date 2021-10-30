@@ -1,0 +1,57 @@
+
+JavaScript => not neccessary
+typescript=>
+Angular 2+=2/4/5/6/7/8/9/10/11/12
+Difference Between Angular Js Vs Angular 2+
+
+It is JS based Fremwork = It is typescript based
+JS is not Supported OOPs Concept = Typescript is fully OOPs 
+it is not mobile compatibility Support = it support all platform
+It follows MVC Arch.		= It follows MVW 
+
+Object Based Lang 	=	Object oriententated Lang 
+Memory Manag. is not proper = Optimize memory
+
+Front End
+Angular2+ / React Js /Vue js /Embber Js / JSP 
+
+typescript basic to Angular  advanced level
+JavaScript 
+
+Typescript is superset of JS 
+
+Typescript => Ecma Scipt(vanila JS) + Ecma script version 6+Additional features(OOPs,Module)
+${}
+
+.ts
+tsc transcompile ur file from .ts to .js 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+img{
+    width: 600px;
+    height: 500px;
+}
+
+.myimg{
+    cursor: pointer;
+}
+
+#img1{
+    border: 8px solid red;
+}

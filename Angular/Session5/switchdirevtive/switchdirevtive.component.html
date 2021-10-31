@@ -1,0 +1,18 @@
+<p>switchdirevtive works!</p>
+
+<input #inputcolor type="text" placeholder="Enter the color name.."> <br><br>
+<button (click)="OnClick(inputcolor.value)">Click</button>
+<hr>
+<div [ngSwitch]="mycolor">
+    <div *ngSwitchCase="'red'" [style.background]="mycolor">
+        Your color is {{mycolor}} </div>
+     <div *ngSwitchCase="'green'" [style.background]="mycolor">
+        Your color is {{mycolor}}</div>
+    <div *ngSwitchCase="'blue'" [style.background]="mycolor">
+        Your color is {{mycolor}}</div>
+    <div *ngSwitchDefault [style.background]="mycolor==''?'black':'orange'"
+          [style.color]="mycolor==''?'white':'black'" >
+      Your color is wrong  {{mycolor}} 
+    </div>
+
+</div>

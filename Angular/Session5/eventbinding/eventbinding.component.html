@@ -1,0 +1,24 @@
+<p>eventbinding works!</p>
+
+<!-- syntax=> (eventName)="MethodName()" -->
+<!-- <button (click)="onClick()">Click</button>
+<br><br>
+<img (click)="OnImageClick()" src="../../assets/Photo1.jpg" alt="" > -->
+<hr>
+<!-- template ref.variable -->
+<input type="text" #inputname
+placeholder="Enter the User name.." > <br><br>
+<button (click)="onSend(inputname)">Send</button>
+<hr>
+
+<input #num1 type="text" placeholder="Enter the Num1"> <br><br>
+<input #num2 type="text" placeholder="Enter the Num2"> <br><br>
+<button (click)="onAddition(num1.value,num2.value)">Addition</button> <br><br>
+<input type="text" [value]="result"
+placeholder="Result"> <br><br>
+<hr>
+<!-- ngModel=> iT is Used for Two way Binding -->
+
+<input type="text" placeholder="Enter the Name" [(ngModel)]="name" ><br>
+{{name}}
+

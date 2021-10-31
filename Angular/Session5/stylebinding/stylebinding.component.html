@@ -1,0 +1,13 @@
+<p>stylebinding works!</p>
+
+<!-- syntax=> [style.cssProperty]="propertyName" -->
+
+<h2 [style.color]="mycolor">Style Binding </h2>
+
+<h2 
+[style.color]="rating<4?'red':'green'">Apply Style Binding on Condition</h2>
+
+<hr>
+<div [ngStyle]="myjson">
+    Apply ngStyle for div
+</div>

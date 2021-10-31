@@ -1,0 +1,10 @@
+.success{
+    color: green;
+}
+.danger{
+    color: red;
+}
+.special{
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}

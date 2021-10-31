@@ -1,0 +1,83 @@
+
+JavaScript => not neccessary
+typescript=>
+Angular 2+=2/4/5/6/7/8/9/10/11/12
+Difference Between Angular Js Vs Angular 2+
+
+It is JS based Fremwork = It is typescript based
+JS is not Supported OOPs Concept = Typescript is fully OOPs 
+it is not mobile compatibility Support = it support all platform
+It follows MVC Arch.		= It follows MVW 
+
+Object Based Lang 	=	Object oriententated Lang 
+Memory Manag. is not proper = Optimize memory
+
+Front End
+Angular2+ / React Js /Vue js /Embber Js / JSP 
+
+typescript basic to Angular  advanced level
+JavaScript 
+
+Typescript is superset of JS 
+
+Typescript => Ecma Scipt(vanila JS) + Ecma script version 6+Additional features(OOPs,Module)
+${}
+
+.ts
+tsc transcompile ur file from .ts to .js 
+
+
+Angular 8
+
+	- It is Compoenet Orientated Arch
+	- It supports Module => It is collection of compo.,services,classess,methods,enum,3rd lib
+	- It Supports Angular Cli=> Command Line Interface 
+	- it gives template declarative ,DI,Services
+	- It is Universal Fremwork i.e. It supports All Cross platform (aandroid,macos,windows,linux,ubuntu,nearest server instant,straming server)
+	- It is SPA Application
+		- It has only one main view file index.html
+		index.html => All Html code
+		<html>
+		<head>
+		<title>sjjzhbvja </title>
+		</head>
+		<body>
+		// All Html tags
+		</body>
+		<html>
+		Any spa Application aha 1 head & 1 body 
+		it provides SPA Envirnoment=> it does not reload a comp. & no extra wait time
+		
+		ng new hello-world
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
